@@ -1,11 +1,4 @@
-//---------------------------------------------------------------
-//NAME: OLUWASEUN OMOJOLA
-//STUDENT NUMBER: 7880480
-//USERID: OMOJOLAS
-//---------------------------------------------------------------
 
-//NOTE: The button sampling and idea of the finite state machine 
-// is gotten from the sample solution A1Q3
 
 
 #include <avr/io.h>
